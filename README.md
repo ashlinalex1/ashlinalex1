@@ -1,8 +1,13 @@
-<h1 align="center">👋 Hi, I'm Ashlin Alex</h1>
+<p align="center">
+  <a href="https://github.com/ashlinalex1">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=388bff&fontSize=54&height=90&width=794&text=Hello!%20I'm%20Ashlin%20Alex" alt="Hello! I&#39;m Ashlin Alex" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science+Student;Agentic+AI+%7C+RAG+%7C+Full-Stack;Building+Real-World+AI+Systems;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Agentic%20AI%20%C2%B7%20RAG%20Systems%20%C2%B7%20Data%20Science;Data%20Science%20undergrad%20turning%20agentic%20AI%20ideas%20into%20working%20systems" alt="Typing headlines" />
 </p>
+
 
 ---
 
